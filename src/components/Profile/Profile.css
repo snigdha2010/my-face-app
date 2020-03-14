@@ -1,0 +1,28 @@
+.user-profile{
+     display: flex;
+     background-color: darksalmon;
+     border: 1px solid black;
+     margin-bottom: 10px;
+     border-radius: 15px;
+     color:black;
+     
+}
+
+.user-profile img{
+    width: 200px;
+    border-radius: 15px;
+    height: 100%;
+}
+.user-profile p{
+    font-weight: 400px;
+}
+.user-profile button{
+    background-color: rgb(38, 38, 65);
+    color: white;
+    font-weight: larger;
+    border-radius:3px ;
+    cursor: pointer;
+    padding-bottom: 2px;
+    margin-bottom:3px;
+}
+
