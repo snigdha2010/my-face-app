@@ -4,5 +4,10 @@
     height: 50px;
     color: white;
     margin-bottom: 10px;
-    width: 1000px;
+    width: auto;
+} 
+ img{
+    height: 80px;
+    text-align: center;
+
 }
